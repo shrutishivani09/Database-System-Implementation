@@ -1,0 +1,5 @@
+ps_partkey: [2], ps_suppkey: [7503], ps_availqty: [3025], ps_supplycost: [306.39], ps_comment: [olites. deposits wake carefully. even, express requests cajole. carefully regular ex]
+ps_partkey: [3], ps_suppkey: [4], ps_availqty: [4651], ps_supplycost: [920.92], ps_comment: [ilent foxes affix furiously quickly unusual requests. even packages across the carefully even theodolites nag above the sp]
+ps_partkey: [3], ps_suppkey: [2504], ps_availqty: [4093], ps_supplycost: [498.13], ps_comment: [ending dependencies haggle fluffily. regular deposits boost quickly carefully regular requests. deposits affix furiously around the pinto beans. ironic, unusual platelets across the p]
+ consumer: removed 10 recs from the pipe
+1

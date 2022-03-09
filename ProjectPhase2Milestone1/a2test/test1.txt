@@ -1,0 +1,10 @@
+ 	 	
+ specify runlength:
+	 
+ specify sort ordering (when done press ctrl-D):
+	  
+0x7ffdefce2f00producer
+ producer: opened DBFile /cise/homes/kondubhatlas/Database-System-Implementation-master/ProjectPhase1/P1/region.bin
+ producer: inserted 0 recs into the pipe
+ consumer: removed 0 recs from the pipe
+1
