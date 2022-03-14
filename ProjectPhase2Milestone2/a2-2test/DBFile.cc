@@ -33,10 +33,10 @@ DBFile::DBFile () {
 
 int DBFile::Create (const char *f_path, fType f_type, void *startup) {
     //Intialization
-	// string metaData_fname(f_path);
-	// metaData_fname += ".meta";
+	 string metaData_fname(f_path);
+	 metaData_fname += ".meta";
 
-	string metaData_fname = "koushik1.txt";
+//	string metaData_fname = "koushik1.txt";
 	info.f = f_type;
 
 	if(f_type == sorted) {
@@ -81,9 +81,9 @@ void DBFile::Load (Schema &f_schema, const char *loadpath) {
 }
 
 int DBFile::Open (const char *f_path) {
-	// string metaData_fname(f_path);
-	// metaData_fname += ".meta";
-	string metaData_fname = "koushik1.txt";
+	 string metaData_fname(f_path);
+	 metaData_fname += ".meta";
+	//string metaData_fname = "koushik1.txt";
 	ifstream stream;
 	stream.open(metaData_fname,ios::in);
 
@@ -145,16 +145,21 @@ vector<Record*> DBFile :: merge(vector<Record*> r1, vector<Record*> r2) {
 	}
 	while(i < r1.size())records.push_back(r1.at(i++));
 	while(j < r2.size())records.push_back(r2.at(j++));
+
 	return records;
 }
 void DBFile::GetRecordsFromPipeAndFile() {
 	inputPipe->ShutDown();
 	bigQ = new BigQ(*inputPipe,*outputPipe,*orderMaker,info.l);
+	ComparisonEngine comparisionEngine;
 	Record *rec = new Record();
 	vector<Record*> r1;
 	while(outputPipe->Remove(rec)==1) {
 		r1.push_back(rec);
 		rec = new Record();
+	}
+	for(int i=1;i<r1.size();i++) {
+		cout << "comparing "<<comparisionEngine.Compare(r1.at(i),r1.at(i-1),orderMaker) << endl;
 	}
 	vector<Record*> r2;
 	int a = -1;
@@ -171,7 +176,12 @@ void DBFile::GetRecordsFromPipeAndFile() {
 		a++;
 	}
 	vector<Record*> records = merge(r1,r2);
+	ComparisonEngine comp;
+	cout<<"****"<<r1.size()<<"****"<<r2.size()<<endl;
 	for(int i=0;i<records.size();i++) {
+		if(i >= 1) {
+			// cout << comp.Compare(records.at(i),records.at(i-1),orderMaker)<<endl;
+		}
 		AddIntoTheFile(*records[i]);
 	}
 	int whichPage = file->GetLength()-1;

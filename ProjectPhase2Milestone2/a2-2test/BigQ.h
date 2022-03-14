@@ -13,6 +13,7 @@ using namespace std;
 class BigQ {
 private:
 vector<Record*> records;
+vector<Record*> records_f;
 ComparisonEngine comparisionEngine;
 
 void tpmms(int l,int r, OrderMaker &sortorder);
