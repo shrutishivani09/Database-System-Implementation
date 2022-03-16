@@ -1,0 +1,10 @@
+s_suppkey: [294], s_name: [Supplier#000000294], s_address: [20vnacv,dtZ0mr5kukNf], s_nationkey: [18], s_phone: [28-299-788-1836], s_acctbal: [6700.75], s_comment: [en accounts. silent, regular instructio]
+s_suppkey: [302], s_name: [Supplier#000000302], s_address: [ow8Io1JHkPnIAGCQYCWC], s_nationkey: [18], s_phone: [28-734-845-8630], s_acctbal: [4422.77], s_comment: [tructions after the foxes cajole regularly ironic tithes. ruthless forges across the slyly express ]
+s_suppkey: [319], s_name: [Supplier#000000319], s_address: [tcES8Ay3zcHQER9K6gAKFWlDvcg nrbPl], s_nationkey: [18], s_phone: [28-288-466-7847], s_acctbal: [1578.18], s_comment: [ts are furiously even, pending pinto beans. fluffily idle courts cajole bl]
+s_suppkey: [324], s_name: [Supplier#000000324], s_address: [QDsgOSozg jniYR2HzxofLZyk0qGdJe], s_nationkey: [18], s_phone: [28-637-452-5085], s_acctbal: [8042.43], s_comment: [ithely slyly special waters. ]
+s_suppkey: [385], s_name: [Supplier#000000385], s_address: [4RDwKCNc6 yBY], s_nationkey: [18], s_phone: [28-730-866-8837], s_acctbal: [5836.17], s_comment: [frays. requests sleep ironic theodolites. carefully even requests doubt furious]
+s_suppkey: [388], s_name: [Supplier#000000388], s_address: [n27XQohXrXlJRLdsyXNoljPS], s_nationkey: [18], s_phone: [28-306-827-7902], s_acctbal: [6540.34], s_comment: [rate around the regular accounts. furiously special pinto beans use bli]
+
+ query over supplier.bin returned 19 recs
+1
+1

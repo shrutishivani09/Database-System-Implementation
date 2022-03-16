@@ -1,0 +1,4 @@
+2
+7
+1
+(l_shipdate) AND (l_extendedprice) AND (l_quantity)

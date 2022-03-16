@@ -1,0 +1,5 @@
+4
+3
+(c_mktsegment = 'FURNITURE') AND
+(c_acctbal > 7023.99) AND
+(c_acctbal < 7110.83)

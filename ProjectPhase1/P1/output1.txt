@@ -1,0 +1,36 @@
+	 4. part 
+	 5. partsupp 
+	 6. orders 
+	 7. lineitem 
+ 	 	
+ specify runlength:
+	 
+ specify sort ordering (when done press ctrl-D):
+	 2: syntax error at )
+Can't parse your sort CNF.
+****************************************************************************************************************************************************************************************
+ specify sort ordering (when done press ctrl-D):
+	 2: syntax error at )
+Can't parse your sort CNF.
+****************************************************************************************************************************************************************************************
+	 4. part 
+	 5. partsupp 
+	 6. orders 
+	 7. lineitem 
+ 	 	
+ specify runlength:
+	 
+ specify sort ordering (when done press ctrl-D):
+	 2: syntax error at )
+Can't parse your sort CNF.
+****************************************************************************************************************************************************************************************
+	 4. part 
+	 5. partsupp 
+	 6. orders 
+	 7. lineitem 
+ 	 	
+ specify runlength:
+	 
+ specify sort ordering (when done press ctrl-D):
+	 2: syntax error at )
+Can't parse your sort CNF.

@@ -1,0 +1,12 @@
+ 
+** IMPORTANT: MAKE SURE THE INFORMATION BELOW IS CORRECT **
+ catalog location: 	catalog
+ tpch files dir: 	/cise/homes/sshivani/git/tpch-dbgen/
+ heap files dir: 	
+ 
+
+ select test option: 
+ 	 1. create sorted dbfile
+ 	 2. scan a dbfile
+ 	 3. run some query 
+ 	 

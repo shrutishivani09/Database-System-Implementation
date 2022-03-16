@@ -1,0 +1,5 @@
+4
+6
+(s_nationkey = 18) AND
+(s_acctbal > 1000.0) AND
+(s_suppkey < 400)

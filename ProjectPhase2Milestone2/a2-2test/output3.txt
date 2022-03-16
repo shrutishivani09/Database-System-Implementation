@@ -1,0 +1,10 @@
+c_custkey: [35128], c_name: [Customer#000035128], c_address: [9wSOAMAoPn8hyAYD3Y9c1j11aSXBW], c_nationkey: [24], c_phone: [34-571-821-1015], c_acctbal: [7066.09], c_mktsegment: [FURNITURE], c_comment: [ts among the ironic instructions use final pearls. carefully final packages across the slyly even]
+c_custkey: [35552], c_name: [Customer#000035552], c_address: [7G9FHigliMO8Bb57dccD8Q3ppoQLX38OcX], c_nationkey: [24], c_phone: [34-655-703-9856], c_acctbal: [7062.29], c_mktsegment: [FURNITURE], c_comment: [deposits boost furiously. final packages of the carefully special deposits serve ]
+c_custkey: [59972], c_name: [Customer#000059972], c_address: [gje7P4OuXk77NWm1GC IPIgJGO], c_nationkey: [24], c_phone: [34-767-762-8697], c_acctbal: [7035.76], c_mktsegment: [FURNITURE], c_comment: [s use alongside of the slyly pending accounts. regular excuses wake carefully accord]
+c_custkey: [61018], c_name: [Customer#000061018], c_address: [4nNogtR2htrND3C,pecHt37rZ9Jpp13YxM], c_nationkey: [24], c_phone: [34-963-893-1962], c_acctbal: [7067.58], c_mktsegment: [FURNITURE], c_comment: [he carefully express packages should have to boost slyly express dependencies. boldly express deposits are]
+c_custkey: [61584], c_name: [Customer#000061584], c_address: [b8NDw4YX3RLd5X7f5s], c_nationkey: [24], c_phone: [34-773-777-1096], c_acctbal: [7053.9], c_mktsegment: [FURNITURE], c_comment: [ unusual requests sleep after the special, unusual foxes. carefully ev]
+c_custkey: [64073], c_name: [Customer#000064073], c_address: [w59gY d12q3rfc8mZ5B6laOFY1ctxNZZYS], c_nationkey: [24], c_phone: [34-723-941-5589], c_acctbal: [7106.76], c_mktsegment: [FURNITURE], c_comment: [ake above the fluffily regular theodolites. blithely regular tithes sleep about the requests. s]
+
+ query over customer.bin returned 112 recs
+1
+0
