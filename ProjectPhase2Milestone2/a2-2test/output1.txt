@@ -1,0 +1,43 @@
+n_nationkey: [23], n_name: [UNITED KINGDOM], n_regionkey: [3], n_comment: [eans boost carefully special requests. accounts are. carefull]
+n_nationkey: [4], n_name: [EGYPT], n_regionkey: [4], n_comment: [y above the carefully unusual theodolites. final dugouts are quickly across the furiously regular d]
+n_nationkey: [10], n_name: [IRAN], n_regionkey: [4], n_comment: [efully alongside of the slyly final dependencies. ]
+n_nationkey: [11], n_name: [IRAQ], n_regionkey: [4], n_comment: [nic deposits boost atop the quickly final requests? quickly regula]
+n_nationkey: [13], n_name: [JORDAN], n_regionkey: [4], n_comment: [ic deposits are blithely about the carefully regular pa]
+n_nationkey: [20], n_name: [SAUDI ARABIA], n_regionkey: [4], n_comment: [ts. silent requests haggle. closely express packages sleep across the blithely]
+
+ scanned 25 recs 
+
+
+****************************************************************************************************************************************************************************************
+ 	  scan : region.bin
+r_regionkey: [0], r_name: [AFRICA], r_comment: [lar deposits. blithely final packages cajole. regular waters are final requests. regular accounts are according to ]
+r_regionkey: [1], r_name: [AMERICA], r_comment: [hs use ironic, even requests. s]
+r_regionkey: [2], r_name: [ASIA], r_comment: [ges. thinly even pinto beans ca]
+r_regionkey: [3], r_name: [EUROPE], r_comment: [ly final courts cajole furiously final excuse]
+r_regionkey: [4], r_name: [MIDDLE EAST], r_comment: [uickly special accounts cajole carefully blithely close requests. carefully final asymptotes haggle furiousl]
+
+ scanned 5 recs 
+
+
+****************************************************************************************************************************************************************************************
+ps_partkey: [293], ps_suppkey: [294], ps_availqty: [3765], ps_supplycost: [919.92], ps_comment: [ke carefully final accounts. slyly ironic requests wake quickly. blithely regular accounts are carefully above the carefully stealthy requests. slyly daring packages after the dependenc]
+ps_partkey: [294], ps_suppkey: [295], ps_availqty: [4958], ps_supplycost: [755.15], ps_comment: [l requests about the furiously even frets maintain against the slyly ironic instructions]
+ps_partkey: [295], ps_suppkey: [296], ps_availqty: [2911], ps_supplycost: [273.94], ps_comment: [ding accounts. pending, unusual attainments haggle furiously. blithely permanent theodolites use carefully. regular accounts boost fu]
+ps_partkey: [296], ps_suppkey: [297], ps_availqty: [8081], ps_supplycost: [600.92], ps_comment: [ntegrate. slyly silent packages nag furiously. qu]
+ps_partkey: [297], ps_suppkey: [298], ps_availqty: [3869], ps_supplycost: [918.93], ps_comment: [oss the blithely ironic ideas. even pinto beans haggle. permanent braids boost]
+ps_partkey: [298], ps_suppkey: [299], ps_availqty: [9804], ps_supplycost: [314.49], ps_comment: [nst the regular, furious platelets. regular packages cajole. ironic, pending ideas sleep slyly ironic excuses. requests cajole? blithely express req]
+
+ query over partsupp.bin returned 596 recs
+
+
+****************************************************************************************************************************************************************************************
+ enter CNF predicate (when done press ctrl-D):
+	n_nationkey: [6], n_name: [FRANCE], n_regionkey: [3], n_comment: [refully final requests. regular, ironi]
+n_nationkey: [7], n_name: [GERMANY], n_regionkey: [3], n_comment: [l platelets. regular accounts x-ray: unusual, regular acco]
+n_nationkey: [19], n_name: [ROMANIA], n_regionkey: [3], n_comment: [ular asymptotes are about the furious multipliers. express dependencies nag above the ironically ironic account]
+n_nationkey: [22], n_name: [RUSSIA], n_regionkey: [3], n_comment: [ requests against the platelets use never according to the quickly regular pint]
+n_nationkey: [23], n_name: [UNITED KINGDOM], n_regionkey: [3], n_comment: [eans boost carefully special requests. accounts are. carefull]
+
+ query over nation.bin returned 5 recs
+
+

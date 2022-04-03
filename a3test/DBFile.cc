@@ -111,7 +111,7 @@ int DBFile::Close () {
 	int whichPage = file->GetLength()-1;
         //I think I need to make a copy of the pointer.s
     if(info.f == heap)file->AddPage(currPage,whichPage);
-	//cout<<file->GetLength()<<endl;
+	// cout<<"file->GetLength()"<<endl;
 	delete file;
 	delete currPage;
     return 0;

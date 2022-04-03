@@ -1,0 +1,75 @@
+ 
+** IMPORTANT: MAKE SURE THE INFORMATION BELOW IS CORRECT **
+ catalog location: 	catalog
+ tpch files dir: 	/cise/homes/kondubhatlas/data/
+ heap files dir: 	/cise/homes/kondubhatlas/Database-System-Implementation-master/ProjectPhase1/P1/
+ 
+
+[6333], [6334], [3711], [1.01], [s use slyly. fluffily express requests wake carefully ironic packages]
+[9097], [4098], [3012], [1.01], [s the bold pinto beans cajole carefully after the slyly unusual instructions. slyly special packages above the unusual, bold packages cajole blithely even Tiresias. theodolites among the foxes are]
+[20468], [469], [6884], [1], [furiously among the slyly ironic instructions. final, unusual packages wake slyly. final accounts cajole. deposits above the i]
+[27115], [9618], [7966], [1.02], [e regular, ironic dugouts. slyly special requests cajole quickly across the blithely express requests. deposits unwind carefully pending theodolites. pinto beans about the even, regular theodolite]
+[34494], [9501], [7438], [1.02], [egular excuses. final, regular deposits wake. pinto beans according to th]
+[43172], [685], [6600], [1.01], [ites integrate blithely above the slyly regular instructions. asymptotes besides the regular, even accounts haggle carefully slyly bold requests. even pinto beans ]
+[43764], [1277], [2344], [1.02], [; furious, ironic requests nag furiously against the silent packages-- furiously pending pinto beans use blithely careful]
+[51671], [4177], [3399], [1.02], [iously. blithely bold requests haggle furiously. slyly final requests sleep. final, final theodolites cajole. accounts play about the slyly unusual requests. bold courts haggle. bol]
+[60953], [954], [8611], [1.01], [ully even dolphins wake carefully about the slyly final pinto beans]
+[61707], [1708], [3178], [1.02], [ide of the unusual, regular excuses. unusual, special packages are carefully across the even theodolites: furi]
+[71984], [6999], [6016], [1.01], [eodolites are blithely across the special requests. quickly regular excuses are furiously against the slyly final accou]
+[74375], [6883], [864], [1.02], [lithely express asymptotes nag regular packages. special, ruthless instructions against the furiously ruthless packages boost around the packages. slyly bold accounts use. furiously ironic pa]
+[76994], [9502], [9712], [1], [. carefully ironic platelets cajole furiously among the furiously regular asymptotes. furiously express asymptotes wake caref]
+[93653], [3654], [4473], [1.02], [ of the carefully final requests. bold deposits are slyly. instructions nod furiously instructions. careful]
+[102497], [2498], [6491], [1], [fully final accounts. even accounts after the carefully final accounts haggle according to the blithely special requests. carefully unusual]
+[122543], [5056], [5753], [1], [e the quickly ironic dependencies. slyly ironic accounts]
+[139711], [9712], [4286], [1.01], [ully unusual escapades sleep along the special instructions. final, bold ideas across the slyly ironic ideas sleep dependenc]
+[155112], [5113], [7635], [1], [refully bold packages. special somas cajole according to the foxes. furiously even accou]
+[158093], [5639], [3751], [1], [iously unusual gifts maintain quickly according to the slyly pending deposits. quickly ]
+[193659], [6179], [6606], [1.01], [can haggle. quickly express packages are blithely. even requests against the silent accounts sleep special packages. ironic ideas according to the furiously regular dolphins use quickly plate]
+[193981], [3982], [619], [1.01], [ic accounts after the unusual, regular instructions grow carefully around the blithely unusual dependencies. pending accounts along the bl]
+
+
+ query1 returned 21 records 
+*************************************************************************************************************************************************************************
+ 
+** IMPORTANT: MAKE SURE THE INFORMATION BELOW IS CORRECT **
+ catalog location: 	catalog
+ tpch files dir: 	/cise/homes/kondubhatlas/data/
+ heap files dir: 	/cise/homes/kondubhatlas/Database-System-Implementation-master/ProjectPhase1/P1/
+ 
+
+
+
+ query2 returned 12 records 
+*************************************************************************************************************************************************************************
+ 
+** IMPORTANT: MAKE SURE THE INFORMATION BELOW IS CORRECT **
+ catalog location: 	catalog
+ tpch files dir: 	/cise/homes/kondubhatlas/data/
+ heap files dir: 	/cise/homes/kondubhatlas/Database-System-Implementation-master/ProjectPhase1/P1/
+ 
+
+[9.24623e+07]
+
+
+ query3 returned 1 records 
+*************************************************************************************************************************************************************************
+ 
+** IMPORTANT: MAKE SURE THE INFORMATION BELOW IS CORRECT **
+ catalog location: 	catalog
+ tpch files dir: 	/cise/homes/kondubhatlas/data/
+ heap files dir: 	/cise/homes/kondubhatlas/Database-System-Implementation-master/ProjectPhase1/P1/
+ 
+
+ query4 
+[4.00421e+08]
+ query4 returned 1 recs 
+*************************************************************************************************************************************************************************
+ 
+** IMPORTANT: MAKE SURE THE INFORMATION BELOW IS CORRECT **
+ catalog location: 	catalog
+ tpch files dir: 	/cise/homes/kondubhatlas/data/
+ heap files dir: 	/cise/homes/kondubhatlas/Database-System-Implementation-master/ProjectPhase1/P1/
+ 
+
+9996
+ query5 finished..output written to file ps.w.tmp
