@@ -1,0 +1,14 @@
+lineitem 0
+Factoe is 0.333333
+lineitem 0
+lineitem 0
+Factoe is 0.142857
+The factor is 0.142857 6.00122e+06 1
+Your estimation Result  857316
+ Correct Answer: 8.5732e+5lineitem 0
+Factoe is 0.333333
+lineitem 0
+lineitem 0
+Factoe is 0.142857
+The factor is 0.142857 6.00122e+06 1
+1

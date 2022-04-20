@@ -1,0 +1,4 @@
+customer:c_custkey-150000 c_nationkey-25 2000404
+lineitem:l_orderkey-1500000 2000404
+nation:n_nationkey-25 2000404
+orders:o_custkey-150000 o_orderkey-1500000 2000404

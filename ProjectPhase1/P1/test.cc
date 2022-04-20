@@ -91,8 +91,10 @@ int main () {
 		cin >> tindx;
 	}
 
-	int findx = 0;
-	while (findx < 1 || findx > 8) {
+	tinx = 1;
+
+	int findx = 1;
+	while (findx >=1 || findx <= 8) {
 		cout << "\n select table: \n";
 		cout << "\t 1. nation \n";
 		cout << "\t 2. region \n";
@@ -102,13 +104,12 @@ int main () {
 		cout << "\t 6. orders \n";
 		cout << "\t 7. lineitem \n";
 		cout << "\t 8. supplier \n \t";
-		cin >> findx;
+		rel = rel_ptr [findx - 1];
+		test = test_ptr [tindx - 1];
+
+		test ();
+
+		cleanup ();
+		findx += 1;
 	}
-
-	rel = rel_ptr [findx - 1];
-	test = test_ptr [tindx - 1];
-
-	test ();
-
-	cleanup ();
 }

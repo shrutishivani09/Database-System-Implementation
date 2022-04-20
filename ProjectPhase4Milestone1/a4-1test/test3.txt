@@ -1,0 +1,14 @@
+customer 0
+Factoe is 0.2
+customer orders1500000
+Factoe is 1.33333e-06
+ 0
+Factoe is 4.44444e-07
+The factor is 4.44444e-07 150000 1.5e+06
+lineitem orders100000
+Factoe is 6.66667e-07
+The factor is 6.66667e-07 6.00122e+06 100000
+lineitem orders100000
+Factoe is 6.66667e-07
+The factor is 6.66667e-07 6.00122e+06 100000
+1

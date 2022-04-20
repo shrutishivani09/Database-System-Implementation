@@ -1,0 +1,3 @@
+customer:c_custkey-150000 c_mktsegment-5 400080
+lineitem:l_orderkey-1500000 400080
+orders:o_custkey-150000 o_orderkey-1500000 400080
